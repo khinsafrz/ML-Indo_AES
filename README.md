@@ -25,6 +25,6 @@ This project explores the application of machine learning techniques for Automat
 - Three text files:
      - id.stopwords.txt (Indonesian language stop words)
      - id.allwords.txt (Indonesian language vocabularies)
-     - glove_id.txt (GloVe embeddings for Indonesian words)
+     - glove_id.txt (GloVe embeddings for Indonesian words) (this one cannot be uploaded to github because it is larger than 25MB, can be shown on req)
    - The first two text files play a role in pre-processing steps.
    - The GloVe text file is specifically utilised within the Neural Networks model.
